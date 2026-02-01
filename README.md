@@ -32,8 +32,11 @@ It's a beginner-friendly project to explore how chatbots work and lays the found
 Responds to:
 
  Greetings (hello, hi, etc.)
+ 
  Identity questions (who are you?)
+ 
  Weather inquiries
+ 
  Joke requests
  
  Farewells (bye)
@@ -78,17 +81,22 @@ cd chatbot-rule-based
 
 Run the chatbot
 
-💬 Example Usage
+💬 Example Usage 
+
 You: hello
+
 Bot: Hi there! How can I help you today?
 
 You: can you tell me a joke?
+
 Bot: Why don't scientists trust atoms? Because they make up everything!
 
 You: who are you?
+
 Bot: I’m a chatbot created to assist you with basic queries.
 
 You: bye
+
 Bot: Goodbye! Have a great day!
 
 🔧 Future Enhancements
