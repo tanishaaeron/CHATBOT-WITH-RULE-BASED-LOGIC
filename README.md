@@ -32,11 +32,8 @@ It's a beginner-friendly project to explore how chatbots work and lays the found
 Responds to:
 
  Greetings (hello, hi, etc.)
- 
  Identity questions (who are you?)
-
  Weather inquiries
- 
  Joke requests
  
  Farewells (bye)
